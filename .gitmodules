@@ -1,0 +1,12 @@
+[submodule "biotech-terraform-google-network"]
+	path = biotech-terraform-google-network
+	url = https://github.com/edu-google/biotech-terraform-google-network.git
+[submodule "biotech-teraform-google-iam"]
+	path = biotech-teraform-google-iam
+	url = https://github.com/edu-google/biotech-teraform-google-iam.git
+[submodule "biotech-terraform-google-bigquery"]
+	path = biotech-terraform-google-bigquery
+	url = https://github.com/edu-google/biotech-terraform-google-bigquery.git
+[submodule "biotech-terraform-google-vertexai"]
+	path = biotech-terraform-google-vertexai
+	url = https://github.com/edu-google/biotech-terraform-google-vertexai.git
