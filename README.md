@@ -5,7 +5,7 @@ BioTech QuickStart guide for all things related to Networking, IAM, BigQuery (Da
 
 This repo contains several distinct Terraform projects each within their own directory that must be applied separately, but in sequence.
 
-### [1. Network](./biotech-terraform-google-network/)
+### [1. Network](https://github.com/edu-google/biotech-terraform-google-network/)
 
 This stage utilizes Terraform and includes step by step instructions to setup [Newtorking](https://cloud.google.com/docs/terraform/get-started-with-terraform) within your environment. If you want to refer the step by step guide, please see [README-Networking](./biotech-terraform-google-network/README.md).
 
