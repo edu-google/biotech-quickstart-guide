@@ -16,22 +16,7 @@ This stage utilizes Terraform and includes step by step instructions to setup [N
 This is a collection of submodules that make it easier to non-destructively manage multiple IAM roles for resources on Google Cloud Platform. For step by step guide, please refer [README-IAM](https://github.com/edu-google/biotech-teraform-google-iam/blob/main/README.md).
 
 This is a collection of submodules that make it easier to non-destructively manage multiple IAM roles for resources on Google Cloud Platform:
-* [Artifact Registry IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/artifact_registry_iam)
-* [Audit Config](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/audit_config)
-* [BigQuery IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/bigquery_datasets_iam)
-* [Billing Accounts IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/billing_accounts_iam)
-* [Custom Role IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/custom_role_iam)
-* [Folders IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/folders_iam)
-* [KMS Crypto Keys IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/kms_crypto_keys_iam)
-* [KMS_Key Rings IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/kms_key_rings_iam)
-* [Organizations IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/organizations_iam)
-* [Projects IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/projects_iam)
-* [Pubsub Subscriptions IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/pubsub_subscriptions_iam)
-* [Pubsub Topics IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/pubsub_topics_iam)
-* [Service Accounts IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/service_accounts_iam)
-* [Storage Buckets IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/storage_buckets_iam)
-* [Subnets IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/subnets_iam)
-* [Secret Manager IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/secret_manager_iam)
+[Artifact Registry IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/artifact_registry_iam), [Audit Config](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/audit_config), [BigQuery IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/bigquery_datasets_iam), [Billing Accounts IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/billing_accounts_iam), [Custom Role IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/custom_role_iam), [Folders IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/folders_iam), [KMS Crypto Keys IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/kms_crypto_keys_iam), [KMS_Key Rings IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/kms_key_rings_iam), [Organizations IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/organizations_iam), [Projects IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/projects_iam), [Pubsub Subscriptions IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/pubsub_subscriptions_iam), [Pubsub Topics IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/pubsub_topics_iam), [Service Accounts IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/service_accounts_iam), [Storage Buckets IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/storage_buckets_iam), [Subnets IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/subnets_iam), [Secret Manager IAM](https://github.com/edu-google/biotech-teraform-google-iam/tree/main/modules/secret_manager_iam)
 
 
 ### [3. BigQuery](https://github.com/edu-google/biotech-terraform-google-bigquery)
